@@ -8,11 +8,19 @@ menu: 关于
 permalink: /about/
 ---
 
-## 简介
+## About Me
+
+I received my PH.D degree from the **<font color="blue">School of Computer and  Information, Hohai University</font>** in 2023. My advisor was Prof. **<font color="blue">Xiaoqin Zeng</font>**. I am an teacher in School of Computer Science and Technology, **<font color="blue">Anhui University of Technology.</font>**
+
+My current reseach interests include community detection, meachine learning and computer vision.
+
+
+
+## 联系方式
 
 <ul>
 {% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
+<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">{{ website.name }}</a></li>
 {% endfor %}
 {% if site.url contains 'qinjisheng.top' %}
 <li>
@@ -24,7 +32,7 @@ permalink: /about/
 
 
 
-## 专业方向
+## Skills
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
