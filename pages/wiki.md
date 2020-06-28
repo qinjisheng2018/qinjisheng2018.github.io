@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+title: 科研学习
+description: 科研就是命
+keywords: 科研，论文
 comments: false
-menu: 维基
+menu: 科研学习
 permalink: /wiki/
+
 ---
+
+> 搞科研就是搞数学！！！
 
 > 记多少命令和快捷键会让脑袋爆炸呢？
 
