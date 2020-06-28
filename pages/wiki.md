@@ -11,8 +11,6 @@ permalink: /wiki/
 
 > 搞科研就是搞数学！！！
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
-
 <ul class="listing">
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" and wiki.topmost == true %}
