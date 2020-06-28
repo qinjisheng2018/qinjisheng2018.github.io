@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://qinjisheng.top
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 秦大圣的博客
+subtitle: "公众号：计算机初学者"
+description: "秦大圣的博客，公众号：计算机初学者"
+keywords: 秦大圣，秦大圣的博客，计算机初学者
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Jisheng Qin
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: qinjisheng2018
+location: Anhui, China
+email: qinjisheng2018@163.com
 
 # ---------------- #
 #    Navigation    #
