@@ -1,6 +1,6 @@
 ## About Me
 
-![计算机初学者](./assets/images/qrcode.jpg)  **<font size=20pt>Jisheng Qin 秦吉胜</font> **
+![计算机初学者](./assets/images/qrcode.jpg)  ** <font size=20pt>Jisheng Qin 秦吉胜</font>**
 
 
 
