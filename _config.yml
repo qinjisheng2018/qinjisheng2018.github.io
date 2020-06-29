@@ -49,9 +49,7 @@ email: qinjisheng2018@163.com
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /about/
-    label: 个人简介
+  
 
   -
     href: /
@@ -77,6 +75,9 @@ navs:
     href: /links/
     label: 友情链接
 
+	-
+    href: /about/
+    label: 个人简介
 
 # ---------------- #
 #       RSS        #
