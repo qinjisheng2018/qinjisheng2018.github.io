@@ -53,10 +53,6 @@ navs:
     href: /
     label: 博客首页
 
-  -
-    href: /categories/
-    label: 分类汇总
-
 #   -
 #     href: /archives/
 #     label: 归档
@@ -68,6 +64,10 @@ navs:
   -
     href: /wiki/
     label: 科研学习
+
+  -
+    href: /categories/
+    label: 分类汇总
 
   -
     href: /links/
