@@ -53,14 +53,6 @@ navs:
     href: /
     label: 博客首页
 
-#   -
-#     href: /archives/
-#     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
-
   -
     href: /wiki/
     label: 科研学习
@@ -72,6 +64,14 @@ navs:
   -
     href: /links/
     label: 友情链接
+
+#   -
+#     href: /archives/
+#     label: 归档
+
+#   -
+#     href: /open-source/
+#     label: 开源
 
   -
     href: /about/
