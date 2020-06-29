@@ -65,13 +65,13 @@ navs:
     href: /links/
     label: 友情链接
 
-   -
-     href: /archives/
-     label: 归档
+#   -
+#     href: /archives/
+#    label: 归档
 
-   -
-     href: /open-source/
-     label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
   -
     href: /about/
