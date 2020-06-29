@@ -8,11 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-## About Me
 
-I received my PH.D degree from the **<font color="blue">School of Computer and  Information, Hohai University</font>** in 2023. My advisor was Prof. **<font color="blue">Xiaoqin Zeng</font>**. I am an teacher in School of Computer Science and Technology, **<font color="blue">Anhui University of Technology.</font>**
-
-My current reseach interests include community detection, meachine learning and computer vision.
 
 
 
@@ -31,8 +27,7 @@ My current reseach interests include community detection, meachine learning and 
 </ul>
 
 
-
-## Skills
+## 其他方面
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
