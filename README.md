@@ -3,10 +3,9 @@
 
 ![计算机初学者](https://github.com/qinjisheng2018/qinjisheng2018.github.io/tree/master/assets/images/qrcode.jpg)  
 
-```html
+
+
 <font size=20pt><b>Jisheng Qin 秦吉胜</b></font>
-<font size=16pt color=blue><b>PH.D</b></font>
-```
 
 
 
