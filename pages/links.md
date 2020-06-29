@@ -8,7 +8,7 @@ menu: 友情链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 追逐大神的脚步
 
 <ul>
 {% for link in site.data.links %}
