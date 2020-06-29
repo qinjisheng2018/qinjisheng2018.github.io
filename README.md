@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="./assets/images/qrcode.jpg" alt="计算机初学者" style="zoom:50%;" />
+<img src="assets/images/qrcode.jpg" alt="计算机初学者" style="zoom:50%;" />
 
 
 
