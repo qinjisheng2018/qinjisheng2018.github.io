@@ -6,9 +6,9 @@ description: Anaconda的安装，PyTorch的配置
 keywords: Anaconda, PyTorch
 ---
 
-## 1. Anaconda的安装
+# 1. Anaconda的安装
 
-### 1.1 软件下载
+## 1.1 软件下载
 
 > Anaconda官方下载地址：[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
 >
@@ -74,13 +74,13 @@ jupyter contrib nbextension install --user
 
 
 
+# 2. PyTorch安装
 
-
-## 1.4 安装CUDA
+## 2.1 安装CUDA
 
 要使用PyTorch需要安装CUDA，使用GPU
 
-### 1.4.1 看看需要的CUDA版本
+### 2.1.1 看看需要的CUDA版本
 
 - **控制面板**  –>  **查看方式：小图标** --> **NVIDIA控制面板**  -- > **帮助** –> **系统信息** –> **组件**  --> **产品名称CUDA 11** （代表显卡能支持的CUDA的最高版本）
 
@@ -108,7 +108,7 @@ jupyter contrib nbextension install --user
 
 
 
-## 1.5 安装PyTorch
+## 2.2  安装PyTorch
 
 > **注意：**不要随便更新 conda、anaconda等，防止出现未知的错误
 
@@ -136,13 +136,13 @@ conda activate PyTorch
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 ```
 
-## 1.6 修改Jupyter Notebook的显式
+## 2.3 修改Jupyter Notebook的显式
 
 > 不得不吐槽，Notebook的字体下，而且注释还是斜体的，很难看
 
 
 
-### 1.6.1 第一步配置：Anaconda配置
+### 2.3.2 第一步配置：Anaconda配置
 
 1. 配置Anaconda原始环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
 
@@ -314,7 +314,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 
 
 
-### 1.6.2 第二步配置：设置浏览器显示字体
+### 2.3.2 第二步配置：设置浏览器显示字体
 
 1. 打开谷歌浏览器 ---> 字体
 2. 自定义字体
@@ -327,7 +327,7 @@ Sans-serif -> 微软雅黑
 
 
 
-## 1.7 配置提示信息
+## 2.4 配置提示信息
 
 打开Jupyter Notebook，配置nbextensions，配置如图：
 
@@ -335,7 +335,7 @@ Sans-serif -> 微软雅黑
 
 
 
-## 1.8 配置Jupyter Notebook打开地址
+## 2.5 配置Jupyter Notebook打开地址
 
 **开始菜单**  -->  **Anaconda3** -->**Jupyter Notebook（Anaconda）** --> **右键**  –> **更多**  –> **打开文件所在位置**  --> JupyterNotebook创建一个快捷方式在桌面上  –> 右键属性  --> 改两个位置
 
