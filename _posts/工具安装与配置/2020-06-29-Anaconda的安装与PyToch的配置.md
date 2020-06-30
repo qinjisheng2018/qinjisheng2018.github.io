@@ -28,7 +28,7 @@ keywords: Anaconda, PyTorch
 
 - 2) 安装时候可以选择**`Just me`**或者**`All Users`**都行
 
-![图片1](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/安装目录1.png)
+![图片1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/安装目录1.png)
 
 - 3) 选择要安装的目录，或者使用默认都行
 
