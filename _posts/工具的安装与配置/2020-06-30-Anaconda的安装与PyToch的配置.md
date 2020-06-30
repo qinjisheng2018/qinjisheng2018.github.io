@@ -39,7 +39,7 @@ keywords: Anaconda, PyTorch
 
 配置部分很重要，配置好用着舒服
 
-### 1.3.1 PIP
+### 1.3.1 pip换源
 
 首先要对pip进行换源，下载能速度快点，源有很多，我只推荐我使用的。
 
@@ -348,4 +348,4 @@ Sans-serif -> 微软雅黑
 
 
 
-[1] : custom.css 的代码是根据知乎中，万欣的回答修改的。具体地址为[jupyter notebook中显示字体如何调整？ - 知乎 https://www.zhihu.com/question/40012144](jupyter notebook中显示字体如何调整？ - 知乎 https://www.zhihu.com/question/40012144)
+[1] : custom.css 的代码是根据知乎中，万欣的回答修改的。具体地址为[jupyter notebook中显示字体如何调整？ - 知乎](https://www.zhihu.com/question/40012144)
