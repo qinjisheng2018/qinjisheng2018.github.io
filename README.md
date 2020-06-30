@@ -1,28 +1,41 @@
 ## About Me
 
+> 1. **微信公众号**：
+
 <img src="assets/images/qrcode.jpg" alt="计算机初学者" style="zoom:30%;" />
 
-
-
-## Jisheng Qin 秦吉胜
-
-I received my PH.D degree from the **<font color="blue">School of Computer and  Information, Hohai University</font>** in 2023. My advisor was Prof. **<font color="blue">Xiaoqin Zeng</font>**. I am an teacher in School of Computer Science and Technology, **<font color="blue">Anhui University of Technology.</font>**
-
-My current reseach interests include community detection, meachine learning and computer vision.
+> 2. **github地址**: [https://github.com/qinjisheng2018](https://github.com/qinjisheng2018)
 
 
 
-## Foundations
-
-> XXXX
+> 3. **联系邮箱地址：qinjisheng2018@163.com**
 
 
 
-## Publications [[Google Scholar]](https://scholar.google.com/)
+# [秦大圣的博客](https://qinjisheng.top)
 
-> XXXXXX
->
-> [- PDF](https://scholar.google.com/)
+> 1. **博客首页**：最新发布的博客内容
 
 
 
+> 2. **科研学习**：关于科研的内容
+
+**包括：图神经网络**
+
+
+
+> 3. **分类汇总**：安装标签分类
+
+**包括：工具的安装与使用**
+
+
+
+> 4. **友情链接**：追踪大神的脚步和一些友链
+
+**包括：追踪大神的脚步、友情链接等**
+
+
+
+> 5. **个人简介**：主要介绍个人的一些情况
+
+**包括一些个人信息、项目基金、发表论文等**
