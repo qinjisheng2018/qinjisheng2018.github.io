@@ -8,10 +8,6 @@ keywords: Anaconda, PyTorch
 
 ## 1. Anaconda的安装
 
-[TOC]
-
-
-
 ### 1.1 软件下载
 
 > Anaconda官方下载地址：[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
@@ -27,13 +23,13 @@ keywords: Anaconda, PyTorch
 - 1) 保证文件所在路径没有中文和空格，最好的方法就是拷贝到根目录盘下
 - 2) 安装时候可以选择**`Just me`**或者**`All Users`**都行
 
-![图片1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/安装目录1.png)
+![安装目录1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/安装目录1.png)
 
 - 3) 选择要安装的目录，或者使用默认都行
 
 - 4) **注意：**勾上路径
 
-  ![图片1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/path.png)
+  ![path](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/path.png)
 
 - 安装完成
 
