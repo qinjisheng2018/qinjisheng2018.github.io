@@ -112,25 +112,35 @@ jupyter contrib nbextension install --user
 
 > **注意：**不要随便更新 conda、anaconda等，防止出现未知的错误
 
-1. 查看Anaconda环境
 
-   ```
-   conda info -e
-   ```
 
-2. 创建PyTorch的子环境，名称随便取
+
+
+- 1) 查看Anaconda环境
+
+```txt
+conda info -e
+```
+
+
+
+- 2) 创建PyTorch的子环境，名称随便取
 
 ```txt
 conda create -n PyTorch python=3.7 anaconda
 ```
 
-3. 激活子环境（子环境拷贝一个环境，你安装PyTorch，或者其他的，不相互干扰）
+
+
+- 3) 激活子环境（子环境拷贝一个环境，你安装PyTorch，或者其他的，不相互干扰）
 
 ```txt
 conda activate PyTorch
 ```
 
-4. 安装PyTorch，推荐翻墙安装，如果没有梯子，去掉`-c pytorch`
+
+
+- 4) 安装PyTorch，推荐翻墙安装，如果没有梯子，去掉`-c pytorch`
 
 ```txt
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
@@ -144,19 +154,19 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 ### 2.3.2 第一步配置：Anaconda配置
 
-1. 配置Anaconda原始环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
+- 1) 配置Anaconda原始环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
 
 ```txt
 C:\Anaconda\Lib\site-packages\notebook\static\custom
 ```
 
-2. 配置PyTorch环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
+- 2) 配置PyTorch环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
 
 ```txt
 C:\Anaconda\envs\PyTorch\lib\site-packages\notebook\static\custom
 ```
 
-3. 新的**custom.css**[1]文件内容为：（里面的显示可以自己根据喜好更改）
+- 3) 新的**custom.css**[1]文件内容为：（里面的显示可以自己根据喜好更改）
 
 ```css
 /* Body */
