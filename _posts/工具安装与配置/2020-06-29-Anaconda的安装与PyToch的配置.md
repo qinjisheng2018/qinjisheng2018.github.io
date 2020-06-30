@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anaconda的安装与PyTorch的配置
-categories: 工具安装配置
+categories: 工具的安装配置
 description: Anaconda的安装，PyTorch的配置
 keywords: Anaconda, PyTorch
 ---
@@ -29,7 +29,7 @@ keywords: Anaconda, PyTorch
 
 - 4) **注意：**勾上路径
 
-  ![path](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/path.png)
+  ![Path](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/Path.png)
 
 - 安装完成
 
