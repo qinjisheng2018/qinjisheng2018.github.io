@@ -25,7 +25,6 @@ keywords: Anaconda, PyTorch
 ## 1.2 软件安装
 
 - 1) 保证文件所在路径没有中文和空格，最好的方法就是拷贝到根目录盘下
-
 - 2) 安装时候可以选择**`Just me`**或者**`All Users`**都行
 
 ![图片1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/安装目录1.png)
@@ -34,7 +33,7 @@ keywords: Anaconda, PyTorch
 
 - 4) **注意：**勾上路径
 
-  ![图片1](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/path.png)
+  ![图片1](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/path.png)
 
 - 安装完成
 
@@ -89,21 +88,21 @@ jupyter contrib nbextension install --user
 
 - **控制面板**  –>  **查看方式：小图标** --> **NVIDIA控制面板**  -- > **帮助** –> **系统信息** –> **组件**  --> **产品名称CUDA 11** （代表显卡能支持的CUDA的最高版本）
 
-![系统中CUDA版本](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/系统中CUDA版本.png)
+![系统中CUDA版本](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/系统中CUDA版本.png)
 
 
 
 - CUDA官网下载：[CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)，注意选择
 
-![CUDA Toolkit下载](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/Tool下载.png)
+![CUDA Toolkit下载](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/Tool下载.png)
 
 - 安装下载文件，主要要自动以安装选项，这里组件有个当前版本，如果显示版本，代表你电脑里面已经安装，没必要覆盖，直接勾掉，一般选择如下：
 
-![NVIDIA安装](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/NVIDIA安装选择.png)
+![NVIDIA安装](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/NVIDIA安装选择.png)
 
 - 下载[cudann](https://developer.nvidia.com/rdp/cudnn-download)，选择对应的版本
 
-![cuDNN](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/cuDNN.png)
+![cuDNN](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/cuDNN.png)
 
 - 解压cudann，并里面的文件拷贝到**`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2`**对应的文件夹中
 - 配置Path路径，增加一条**`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\lib\x64`**
@@ -336,7 +335,7 @@ Sans-serif -> 微软雅黑
 
 打开Jupyter Notebook，配置nbextensions，配置如图：
 
-![nbextensions选择](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/nbextensions选择.png)
+![nbextensions选择](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/nbextensions选择.png)
 
 
 
@@ -349,7 +348,7 @@ Sans-serif -> 微软雅黑
 
 以上两个地址都改成你的项目地址，下次启动，自动从这个位置打开。
 
-![起始位置](../../images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/起始位置.png)
+![起始位置](/images/posts/软件使用/20200629：Anaconda的安装与PyTorch配置/起始位置.png)
 
 
 
