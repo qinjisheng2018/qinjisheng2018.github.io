@@ -152,7 +152,7 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 
 
-### 2.3.2 第一步配置：Anaconda配置
+### 2.3.1 Anaconda配置
 
 - 1) 配置Anaconda原始环境下的Notebook显式，将**custom.css**文件替换掉，原文件地址
 
@@ -324,7 +324,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 
 
 
-### 2.3.2 第二步配置：设置浏览器显示字体
+### 2.3.2 设置浏览器显示字体
 
 1. 打开谷歌浏览器 ---> 字体
 2. 自定义字体
