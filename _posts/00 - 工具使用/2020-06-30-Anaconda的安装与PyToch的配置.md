@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anaconda的安装与PyTorch的配置
-categories: 工具的安装配置
+categories: 工具使用
 description: Anaconda的安装，PyTorch的配置
 keywords: Anaconda, PyTorch
 ---
