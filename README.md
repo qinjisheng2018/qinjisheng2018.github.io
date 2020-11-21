@@ -8,7 +8,7 @@
 
 
 
-> 3. **联系邮箱地址：qinjisheng2018@163.com**
+> 3. **联系邮箱地址：qinjisheng2018@qq.com**
 
 
 
