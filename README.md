@@ -1,8 +1,8 @@
 ## About Me
 
-> 1. **微信公众号**：
+> 1. **微信公众号**：计算机初学者
 
-<img src="../assets/images/qrcode.jpg" alt="计算机初学者" />
+
 
 > 2. **github地址**: [https://github.com/qinjisheng2018](https://github.com/qinjisheng2018)
 
