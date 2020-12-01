@@ -69,10 +69,10 @@ navs:
 #    href: /archives/
 #    label: 归档
 #
-#  -
-#    href: /open-source/
-#    label: 开源
-#
+  -
+    href: /open-source/
+    label: 开源项目
+
   -
     href: /about/
     label: 个人简介
