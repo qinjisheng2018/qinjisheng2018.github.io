@@ -120,16 +120,16 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: qinjisheng
+    owner: qinjisheng2018
     repo: blog-comments
     oauth:
         client_id: 1b9ce312b6b247abd173
         client_secret: 89a4935d12cc530864641313a4caebe0845270cb
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: qinjisheng
+    owner: qinjisheng2018
     repo: blog-comments
-    clientID: 1b9ce312b6b247abd173
+    clientID: 7fe2f4ea8919f9d4e390
     clientSecret: 89a4935d12cc530864641313a4caebe0845270cb
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
