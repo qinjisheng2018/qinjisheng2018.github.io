@@ -51,7 +51,7 @@ email: qinjisheng2018@qq.com
 navs:
   -
     href: /
-    label: 首页
+    label: 博客首页
 
   -
     href: /wiki/
@@ -69,9 +69,9 @@ navs:
 #    href: /archives/
 #    label: 归档
 #
-  -
-    href: /open-source/
-    label: 开源项目
+#  -
+#    href: /open-source/
+#    label: 开源项目
 
   -
     href: /about/
