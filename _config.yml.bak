@@ -130,7 +130,7 @@ gitalk:
     owner: qinjisheng2018
     repo: blog-comments
     clientID: 7fe2f4ea8919f9d4e390
-    clientSecret: 89a4935d12cc530864641313a4caebe0845270cb
+    clientSecret: 7dbd8e0742ef64ce6f73387d9e4b431fbca2fbd5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 # false
