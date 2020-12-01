@@ -18,9 +18,13 @@ My current reseach interests include**<font color="blue"> community detection, m
 
 
 
+
+
 ## Foundations
 
 > XXXX
+
+
 
 
 
@@ -31,6 +35,22 @@ My current reseach interests include**<font color="blue"> community detection, m
 > [- PDF](https://scholar.google.com/)
 
 
+
+
+
+## 编程语言
+
+{% for skill in site.data.skills %}
+
+### {{ skill.name }}
+
+<div class="btn-inline">
+{% for keyword in skill.keywords %}
+<button class="btn btn-outline" type="button">{{ keyword }}</button>
+{% endfor %}
+</div>
+
+{% endfor %}
 
 
 
@@ -49,13 +69,4 @@ My current reseach interests include**<font color="blue"> community detection, m
 </ul>
 
 
-## 其他方面
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
