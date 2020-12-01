@@ -125,7 +125,7 @@ gitment:
     oauth:
         client_id: 1b9ce312b6b247abd173
         client_secret: 89a4935d12cc530864641313a4caebe0845270cb
-https://github.com/gitalk/gitalk#install
+# https://github.com/gitalk/gitalk#install
 gitalk:
     owner: qinjisheng
     repo: blog-comments
