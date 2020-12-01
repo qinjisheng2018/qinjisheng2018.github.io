@@ -39,11 +39,11 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Jisheng Qin
-organization: 
-organization_url: 
+organization: Anhui University Of Technology
+organization_url: https://www.ahut.edu.cn/
 github_username: qinjisheng2018
 location: Anhui, China
-email: qinjisheng2018@163.com
+email: qinjisheng2018@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -132,7 +132,8 @@ gitalk:
     clientID: 1b9ce312b6b247abd173
     clientSecret: 89a4935d12cc530864641313a4caebe0845270cb
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+lazy_load_disqus : true
+# false
 
 # ---------------- #
 #      Search      #

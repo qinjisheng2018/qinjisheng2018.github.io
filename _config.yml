@@ -39,11 +39,11 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Jisheng Qin
-organization: 
-organization_url: 
+organization: Anhui University Of Technology
+organization_url: https://www.ahut.edu.cn/
 github_username: qinjisheng2018
 location: Anhui, China
-email: qinjisheng2018@163.com
+email: qinjisheng2018@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -65,13 +65,13 @@ navs:
     href: /links/
     label: 友情链接
 
-#   -
-#     href: /archives/
-#    label: 归档
+  -
+    href: /archives/
+    label: 归档
 
-#   -
-#     href: /open-source/
-#     label: 开源
+  -
+    href: /open-source/
+    label: 开源
 
   -
     href: /about/
