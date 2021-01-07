@@ -30,9 +30,7 @@ My current reseach interests include**<font color="blue"> community detection, m
 
 ## Publications [[Google Scholar]](https://scholar.google.com/)
 
-> XXXXXX
->
-> [- PDF](https://scholar.google.com/)
+> 1. **Qin J**, Zeng X, Wu S, et al. E-GCN: Graph Convolution with Estimated Labels [J]. Applied Intelligence, 2020, pp.1-9.
 
 
 
